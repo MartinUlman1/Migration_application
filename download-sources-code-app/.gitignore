@@ -1,0 +1,25 @@
+# Build výstupy
+target/
+bin/
+build/
+
+# Nastavení IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+
+# Logy a dočasné soubory
+*.log
+*.tmp
+
+# Soubory operačního systému
+.DS_Store
+Thumbs.db
+
+# Závislosti
+/lib/
+
+# Maven a Gradle
+.mvn/
+.gradle/
